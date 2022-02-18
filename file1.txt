@@ -2,3 +2,4 @@ This is my text file
 This is another line on my text file.
 This is a new line of text for myFirstBranch
 Adding another modification to file1 from myFirstBranch
+Correct lin of text (checking for merge error)from myFirstBranch
